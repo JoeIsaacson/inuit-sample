@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![inuit.css](http://inuitcss.com/img/content/logo.png)
 
 # inuit.css web template
@@ -25,3 +26,9 @@ your project, whilst also maintaining your inuit.css submodule.
 For a more detailed overview on what inuit.css is, and how to install and use
 it, please refer to the documentation in the README in
 [the main inuit.css repository](https://github.com/csswizardry/inuit.css).
+=======
+inuit-sample
+============
+
+clone of inuit https://github.com/csswizardry/inuit.css - just kicking it around 
+>>>>>>> d04e4621227efc7e0bafadd4ba8b6de8b7496423
